@@ -8,6 +8,8 @@ Welcome to my ICS3U portfolio. I’ll use this site to post my work and reflecti
 
 ## About me
 A short intro (interests, goals, tools I’m learning).
+
 I enjoy cooking, reading, swimming, and learning new concepts that I can apply in my future.
+
 ---
 *Update this page by editing `index.md` in your repository.*
