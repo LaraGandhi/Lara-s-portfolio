@@ -1,4 +1,4 @@
-# Digital Citizenship/Footprint Reflection
+# Unit 1: Digital Citizenship/Footprint Reflection
 
 - Topic(s): This project focused on digital citizenship, especially understanding digital footprints, online privacy, and responsible internet use.
   
