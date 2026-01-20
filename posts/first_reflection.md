@@ -6,4 +6,4 @@
   
 - What I’m proud of: I’m proud of how much my perspective changed after this project. I was able to reflect honestly on my own online behavior and explain why digital responsibility matters, not just for now but for the future as well. I also proud of how we engaged the class by doing a fun trivia game.
   
-- Next steps: Going forward, I want to apply the steps we looked at in the project into my everyday life.
+- Next steps: Going forward, I want to apply the steps we looked at in the project into my everyday life by continuing to look at digital footprint and citizenship and keeping an open mind about the things I encounter online.
