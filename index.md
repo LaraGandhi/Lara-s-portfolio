@@ -20,11 +20,11 @@ Welcome to my ICS3U portfolio. I’ll use this site to post my work and reflecti
 
 - 🔧 Project 5: *Final Culminating Project - The Detective's Dilemma: A Murder Mystery Game* – *A story-based mystery game where players gather clues, play mini-games, and solve a case.*
 - 🧠 Concept I learned: *How to combine the storytelling aspects of the game, using functions, variables, and user input. I also learned how to use new functions to create unique methods and other parts of code that wasn't implemented before (file reader/writer, switch-case).*
-- 📝 Blog/Reflection: [Reflection #1]()
-- 📝 Blog/Reflection: [Reflection #2]()
-- 📝 Blog/Reflection: [Reflection #3]()
-- 📝 Blog/Reflection: [Reflection #4]()
-- 📝 Blog/Reflection: [Reflection #5]()
+- 📝 Blog/Reflection: [Reflection #1](./posts/culminating_reflection_1.md)
+- 📝 Blog/Reflection: [Reflection #2](./posts/culminating_reflection_2.md)
+- 📝 Blog/Reflection: [Reflection #3](./posts/culminating_reflection_3.md)
+- 📝 Blog/Reflection: [Reflection #4](./posts/culminating_reflection_4.md)
+- 📝 Blog/Reflection: [Reflection #5](./posts/culminating_reflection_5.md)
 
 
 ## About me
