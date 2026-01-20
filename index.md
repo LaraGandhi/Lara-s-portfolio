@@ -1,5 +1,5 @@
 # Hi, I'm Lara
-Welcome to my ICS3U portfolio. I’ll use this site to post my work and reflections.
+Welcome to my ICS3UR portfolio. I’ll use this site to post my work and reflections.
 
 ## Highlights
 - 🔧 Project 1: *Digital Citizenship: Digital Footprint* – *An exploration of how online actions create a lasting digital footprint and how to manage it responsibly.*
